@@ -12,6 +12,8 @@
 
 Usage:
 
+``mkdir project_folder``
+
 ``curl -s https://raw.githubusercontent.com/emrea-works/start_dev_env/master/start_dev.sh > start_dev && chmod 744 start_dev``
 
 ``./start_dev ``
